@@ -111,3 +111,12 @@ ai
 宇宙
 飞船
 航空
+
+voip
+freepbx
+
+比特币
+bitcoin
+sol
+
+
